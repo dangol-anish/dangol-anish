@@ -1,7 +1,5 @@
-# Anish Dangol
-
 <div align="center">
-  <img src="anish-pixelart.png" alt="Anish Dangol" width="200" height="200">
+  <img src="anish1-pixelart.png" alt="Anish Dangol" width="200" height="200">
 </div>
 
 ## About Me
