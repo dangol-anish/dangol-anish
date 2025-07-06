@@ -1,4 +1,4 @@
-# Anish Dangol
+
 
 <div align="center">
   <img src="anish-pixelart.png" alt="Anish Dangol" width="200" height="200">
