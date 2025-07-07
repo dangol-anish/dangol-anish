@@ -9,7 +9,7 @@ I'm a software developer who combines art, design, and code to build functional 
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Python, Java, C#
-- **Frontend:** React, NextJs, HTML5, CSS3, SASS, Redux, Zustand
+- **Frontend:** React, React Native, NextJs, HTML5, CSS3, SASS, Redux, Zustand
 - **Backend:** Node.js, Express, Flask
 - **Databases:** PostgreSQL, MongoDB, Redis, PLpgSQL, Supabase, Firebase
 - **Tools:** Git, Docker, AWS, Linux
