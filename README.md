@@ -20,5 +20,5 @@ I'm a software developer who combines art, design, and code to build functional 
 
 ---
 <div align="center">
-  <img src="anish1-pixelart.png" alt="Anish Dangol" width="200" height="200">
+  <img src="compass.png" alt="Anish Dangol" width="200" height="200">
 </div>
