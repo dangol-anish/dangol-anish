@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="anish1-pixelart.png" alt="Anish Dangol" width="200" height="200">
-</div>
+
 
 ## About Me
 
@@ -21,3 +19,6 @@ I'm a software developer who combines art, design, and code to build functional 
 - **Portfolio:** [https://www.dangolanish.com.np/]
 
 ---
+<div align="center">
+  <img src="anish1-pixelart.png" alt="Anish Dangol" width="200" height="200">
+</div>
